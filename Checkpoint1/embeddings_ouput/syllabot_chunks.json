@@ -1,0 +1,344 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus\nis professional elective 4 generative ai systems\ninstructor: jessie a. melendres 1st semester, a.y. 20262027 units: 3 schedule: tth 1:002:30 pm\n1. course description\nthis course introduces students to the principles and applications of generative ai systems. topics include transformer architecture, large language models (llms), prompt engineering, retrieval-augmented generation (rag), vector databases, fine-tuning techniques such as lora and qlora, and llmops deployment practices"
+  },
+  {
+    "chunk_id": 1,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "as lora and qlora, and llmops deployment practices. students will design and build a working generative ai application as a capstone mini-project that progresses through four checkpoints aligned with the four exam periods.\n2. course intended learning outcomes (cilos)\nby the end of this course, students should be able to:\ncilo 1: build a full end-to-end data pipeline including text cleaning, tokenization, embedding generation, and dimensionality reduction.\ncilo 2: design and implement a scalable"
+  },
+  {
+    "chunk_id": 2,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "eduction.\ncilo 2: design and implement a scalable rag architecture using a vector database and an orchestration framework such as langchain or llamaindex.\ncilo 3: apply open-source foundation models and demonstrate understanding of peft, lora, and qlora fine-tuning techniques within memory constraints.\ncilo 4: deploy a secure, containerized application using docker with a ci/cd-aware deployment workflow.\n3. course topics by week\n4. grading system\n5. project checkpoints\n6. course policies\nattenda"
+  },
+  {
+    "chunk_id": 3,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "5. project checkpoints\n6. course policies\nattendance: students are allowed a maximum of 3 absences. more than 3 absences may result in a grade of 5.0 or dropped status depending on the stage of the semester.\nlate submissions: a deduction of 10% per day late will be applied to all performance tasks. no submission will be accepted after 3 days past the deadline.\nacademic integrity: all code submissions must be the original work of the student or group. use of ai-generated code is permitted but mu"
+  },
+  {
+    "chunk_id": 4,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "roup. use of ai-generated code is permitted but must be declared and explained. plagiarism results in automatic failure of the task.\nlaboratory requirements: students must bring their own laptop with python 3.10 installed. google colab is an acceptable alternative.\ncommunication: official announcements will be posted on the course lms. students are expected to check the platform at least once daily.\n7. required references\n1. vaswani, a. et al. (2017). attention is all you need. neurips.\n2. lewis"
+  },
+  {
+    "chunk_id": 5,
+    "source": "01_GenAI_Systems_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "017). attention is all you need. neurips.\n2. lewis, p. et al. (2020). retrieval-augmented generation for knowledge-intensive nlp tasks. neurips.\n3. hu, e. et al. (2022). lora: low-rank adaptation of large language models. iclr.\n4. langchain documentation.\n5. huggingface documentation.\n6. chromadb documentation."
+  },
+  {
+    "chunk_id": 6,
+    "source": "02_Business_Analytics_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus\nbusiness analytics\ninstructor: ba instructor name 1st semester, a.y. 20262027 units: 3 schedule: mwf 9:0010:00 am\n1. course description\nbusiness analytics is a course that equips students with the skills to collect, process, analyze, and communicate data-driven insights for business decision-making. topics include descriptive, predictive, and prescriptive analytics, data quality management, statistical modeling, data visualization, and the use of modern analytics tools such as py"
+  },
+  {
+    "chunk_id": 7,
+    "source": "02_Business_Analytics_Syllabus.txt",
+    "chunk_index": 1,
+    "text": ", and the use of modern analytics tools such as python, excel, and power bi. students will complete a series of performance tasks using real-world or simulated business datasets.\n2. learning outcomes\nlo 1: apply data quality management principles to identify and resolve issues in raw datasets.\nlo 2: use descriptive statistics and visualization tools to summarize and present data effectively.\nlo 3: build predictive models using regression and classification techniques.\nlo 4: interpret analytics r"
+  },
+  {
+    "chunk_id": 8,
+    "source": "02_Business_Analytics_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "sification techniques.\nlo 4: interpret analytics results and formulate data-driven business recommendations.\n3. weekly topics\n4. grading system\n5. course policies\nattendance: a maximum of 3 absences is allowed. more than 3 absences will result in a failing grade or dropped status.\nlate work: performance tasks submitted after the deadline will receive a 10% deduction per day. tasks submitted more than 3 days late will not be accepted.\ntools required: microsoft excel (office 365), python 3.x with"
+  },
+  {
+    "chunk_id": 9,
+    "source": "02_Business_Analytics_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "ed: microsoft excel (office 365), python 3.x with pandas and matplotlib, power bi desktop (free version).\ndata privacy: any personal data used in exercises must be anonymized. students must not share datasets externally.\nrecitation: active participation in discussions and recitations is part of the grade. students should come prepared with the assigned readings.\n6. required textbooks and references\n1. shmueli, g. et al. (2023). data mining for business analytics. wiley.\n2. few, s. (2012). show m"
+  },
+  {
+    "chunk_id": 10,
+    "source": "02_Business_Analytics_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "siness analytics. wiley.\n2. few, s. (2012). show me the numbers: designing tables and graphs to enlighten. analytics press.\n3. mckinney, w. (2022). python for data analysis. oreilly media.\n4. microsoft power bi documentation."
+  },
+  {
+    "chunk_id": 11,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus: information management 1st semester, a.y.\ncourse information\ninstructor: im instructor name units: 3 schedule: mwf 10:0011:00 am room: it lab 2\n1. course description\ninformation management covers the principles and practices of managing organizational information\nresources. topics include database systems, data modeling, information architecture, records\nmanagement, knowledge management, information security, and enterprise information systems.\nstudents will analyze real-world i"
+  },
+  {
+    "chunk_id": 12,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "mation systems.\nstudents will analyze real-world information management problems and propose solutions using\nstandard frameworks and tools.\n2. learning outcomes\nlo 1: design and implement relational database schemas using normalization techniques.\nlo 2: apply information architecture principles to organize and structure enterprise data.\nlo 3: evaluate information security risks and recommend appropriate controls.\nlo 4: use sql and database tools to retrieve and manipulate organizational data.\n3."
+  },
+  {
+    "chunk_id": 13,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "to retrieve and manipulate organizational data.\n3. weekly schedule\nweek topic assessment\n1 introduction to information management; data vs informatqiouni zv s1 knowledge\n2 database concepts; relational model; entity-relationshipl daiba g1rams\n3 normalization; 1nf, 2nf, 3nf; functional dependencieslab 2\n4 sql fundamentals; select, insert, update, deletpet 1\n5 advanced sql; joins, subqueries, aggregate functions lab 3\n6 information architecture; taxonomies and metadata quiz 2\n7 records and documen"
+  },
+  {
+    "chunk_id": 14,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "xonomies and metadata quiz 2\n7 records and document management systems lab 4\n8 midterm examination midterm exam\n9 knowledge management systems; communities of practicpet 2\n10 information security fundamentals; cia triad quiz 3\n11 access control; authentication and authorization lab 5\n12 enterprise information systems; erp and crm pt 3\n13 data governance and compliance; gdpr, data privacy alcetcture\n14 cloud-based information systems lab 6\n15 case study: information management failure analysis gr"
+  },
+  {
+    "chunk_id": 15,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "study: information management failure analysis group report\n16 final examination final exam\n4. grading system\ncomponent weight\nquizzes 20%\nlaboratory exercises 20%\nperformance tasks 20%\nmidterm exam 20%\nfinal exam 20%\n5. course policies\nattendance: students must maintain at least 80% attendance. absences beyond the allowable limit will\nresult in a grade of dropped.\nlaboratory: students are expected to save and back up all lab outputs. lost files due to negligence will\nnot be grounds for re-subm"
+  },
+  {
+    "chunk_id": 16,
+    "source": "03_Information_Management_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "due to negligence will\nnot be grounds for re-submission.\nacademic honesty: sharing of exam answers, plagiarism, or copying of laboratory outputs is a violation\nof academic integrity and will be dealt with accordingly.\n6. references\n1. laudon, k. laudon, j. (2022). management information systems. pearson.\n2. hoffer, j. et al. (2019). modern database management. pearson.\n3. iso/iec 27001:2022 information security management standard."
+  },
+  {
+    "chunk_id": 17,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus: systems analysis and design 1st semester, a.y.\ncourse information\ninstructor: sad instructor name units: 3 schedule: tth 3:004:30 pm room: it lab 3\n1. course description\nsystems analysis and design (sad) provides students with a structured approach to designing and\ndeveloping information systems. the course covers the systems development life cycle (sdlc),\nrequirements gathering, process modeling using data flow diagrams (dfds) and use case diagrams,\ndatabase design, prototyping"
+  },
+  {
+    "chunk_id": 18,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "nd use case diagrams,\ndatabase design, prototyping, and system implementation. students will work in teams to analyze a\nreal-world problem and produce a complete system design proposal.\n2. learning outcomes\nlo 1: apply the sdlc methodology to plan and manage a software development project.\nlo 2: elicit and document system requirements through interviews, surveys, and observation.\nlo 3: create process models using dfds, flowcharts, and uml diagrams.\nlo 4: design a functional prototype of an infor"
+  },
+  {
+    "chunk_id": 19,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "s.\nlo 4: design a functional prototype of an information system based on user requirements.\n3. weekly schedule\nweek topic assessment\n1 introduction to systems analysis; sdlc overview quiz 1\n2 agile vs waterfall; project management basics discussion\n3 requirements elicitation; interviews and surveys lab 1: requirements doc\n4 use case diagrams; actor identification pt 1: use case diagram\n5 data flow diagrams; context diagrams; level 0 and 1 dfldasb 2\n6 process modeling; decision tables and trees q"
+  },
+  {
+    "chunk_id": 20,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "2\n6 process modeling; decision tables and trees quiz 2\n7 data modeling; er diagrams; data dictionary lab 3\n8 midterm examination midterm exam\n9 system design; input/output design; ui wireframes pt 2: wireframes\n10 database design; normalization review lab 4\n11 prototyping; low-fidelity and high-fidelity prototypes lab 5\n12 system testing; test plans and test cases pt 3: test plan\n13 implementation planning; conversion strategies lecture\n14 system maintenance; change management quiz 3\n15 group p"
+  },
+  {
+    "chunk_id": 21,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "m maintenance; change management quiz 3\n15 group presentations: system design proposal group presentation\n16 final examination final exam\n4. grading system\ncomponent weight\nquizzes / participation 15%\nlaboratory outputs 25%\nperformance tasks 20%\nmidterm exam 20%\nfinal exam 20%\n5. policies\nteam work: all group members must contribute equally. division of labor must be documented and\nsubmitted alongside group outputs.\nsubmission: all outputs must be submitted via the lms before 11:59 pm on the due"
+  },
+  {
+    "chunk_id": 22,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "e submitted via the lms before 11:59 pm on the due date. email\nsubmissions are not accepted.\nconsultation: students are encouraged to schedule consultations during the instructor's office hours for\nproject feedback.\n6. references\n1. kendall, k. kendall, j. (2019). systems analysis and design. pearson.\n2. sommerville, i. (2016). software engineering. pearson.\n3. dennis, a. et al. (2021). systems analysis and design: an object-oriented approach with uml.\nwiley."
+  },
+  {
+    "chunk_id": 23,
+    "source": "04_Systems_Analysis_Design_Syllabus.txt",
+    "chunk_index": 6,
+    "text": "h uml.\nwiley."
+  },
+  {
+    "chunk_id": 24,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus: thesis writing and research methods 1st\nsemester, a.y. 20262027\ncourse information\ninstructor: research instructor name units: 3 schedule: f 1:004:00 pm room: research lab\n1. course description\nthis course guides fourth-year is students through the research process from topic conceptualization\nto final thesis defense. students will develop skills in research design, literature review writing, data\ncollection methodologies, statistical analysis, and academic writing. by the end o"
+  },
+  {
+    "chunk_id": 25,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "tical analysis, and academic writing. by the end of the semester,\nstudents will have completed and defended chapters 1 through 3 of their undergraduate thesis.\n2. learning outcomes\nlo 1: formulate a clear and researchable problem statement relevant to the field of information\nsystems.\nlo 2: conduct a comprehensive review of related literature and synthesize findings.\nlo 3: design an appropriate research methodology including data collection and analysis plans.\nlo 4: write and defend chapters 1,"
+  },
+  {
+    "chunk_id": 26,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "nalysis plans.\nlo 4: write and defend chapters 1, 2, and 3 of an undergraduate thesis following apa 7th edition\nformat.\n3. chapter and milestone schedule\nweek milestone output\n1 orientation; research ethics; topic brainstormingtopic proposal (1 page)\n2 research problem identification; significance of thed rsatfut dcyhapter 1 section 1\n3 conceptual framework; theoretical framework framework diagram\n4 statement of the problem; research questions; hyppto t1h:e csihsapter 1 draft\n5 literature review"
+  },
+  {
+    "chunk_id": 27,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "yppto t1h:e csihsapter 1 draft\n5 literature review strategy; database search annotated bibliography (10 sources)\n6 synthesizing related literature literature matrix\n7 writing related studies; synthesis paragraph draft chapter 2\n8 midterm defense: chapter 1 and chapter 2 midterm defense\n9 research design; quantitative vs qualitative methodology draft\n10 sampling; population; data collection instrumentssurvey/interview guide\n11 validity and reliability; pilot testing instrument validation report\n1"
+  },
+  {
+    "chunk_id": 28,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "lity; pilot testing instrument validation report\n12 data collection plan; timeline pt 2: chapter 3 draft\n13 statistical tools; data analysis plan analysis framework\n14 revision of chapters 13 based on panel feedbacrkevised manuscript\n15 pre-final defense rehearsal presentation slides\n16 final defense: chapters 1, 2, and 3 final thesis manuscript\n4. grading system\ncomponent weight\nchapter drafts and revisions 20%\nannotated bibliography and literature matrix 10%\nperformance tasks 20%\nmidterm defen"
+  },
+  {
+    "chunk_id": 29,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "ure matrix 10%\nperformance tasks 20%\nmidterm defense 25%\nfinal defense 25%\n5. formatting guidelines\nall written outputs must follow apa 7th edition formatting: 12pt times new roman, double-spaced,\n1-inch margins, page numbers on upper right.\ncitations: all sources must be properly cited in-text and listed in the references section. plagiarism will\nresult in automatic disqualification of the submission.\nmanuscript submission: final thesis manuscript must be submitted both in soft copy (pdf via lm"
+  },
+  {
+    "chunk_id": 30,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 6,
+    "text": "pt must be submitted both in soft copy (pdf via lms)\nand hard copy (spiral-bound) before the defense date.\n6. references and style guide\n1. american psychological association. (2020). publication manual of the apa (7th ed.).\n2. creswell, j. creswell, j.d. (2018). research design: qualitative, quantitative, and mixed methods\napproaches. sage.\n3. creswell, j. (2015). educational research: planning, conducting, and evaluating quantitative and\nqualitative research. pearson."
+  },
+  {
+    "chunk_id": 31,
+    "source": "05_Thesis_Writing_Syllabus.txt",
+    "chunk_index": 7,
+    "text": "ative research. pearson."
+  },
+  {
+    "chunk_id": 32,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 0,
+    "text": "academic calendar and student policies 1st semester, a.y.\nacademic calendar\nperiod dates remarks\nenrollment period july 28 august 1, 2026 regular enrollment\nlate enrollment august 45, 2026 with late fee\nstart of classes august 11, 2026 first day of instruction\nprelim examinations september 812, 2026 weeks 45\nmidterm examinations october 610, 2026 week 8\nsemi-final examinations november 37, 2026 week 12\nfinal examinations december 15, 2026 weeks 1516\nchristmas break december 8january 4, 2027 no c"
+  },
+  {
+    "chunk_id": 33,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 1,
+    "text": "516\nchristmas break december 8january 4, 2027 no classes\nsubmission of final grades january 10, 2027 instructors deadline\ngrading scale\ngrade percentage equivalent description\n1.0 97100% excellent\n1.25 9496% superior\n1.5 9193% very good\n1.75 8890% good\n2.0 8587% good\n2.25 8284% satisfactory\n2.5 7981% satisfactory\n2.75 7678% fair\n3.0 75% passing\n5.0 below 75% failing\ninc incomplete\nw withdrawn\nattendance policy\na student who incurs absences of more than 20% of the total class hours prescribed for"
+  },
+  {
+    "chunk_id": 34,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 2,
+    "text": "e than 20% of the total class hours prescribed for the course\nshall be dropped from the course and given a grade of dropped (drp).\nfor a 3-unit subject meeting 3 hours per week (54 hours/semester), the maximum allowable absences\nis 10 hours (approximately 34 class sessions depending on schedule).\ntardiness: a student who arrives more than 15 minutes after the scheduled start of class will be\nmarked late. three instances of tardiness are equivalent to one absence.\ncode of student conduct\nstudents"
+  },
+  {
+    "chunk_id": 35,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 3,
+    "text": "t to one absence.\ncode of student conduct\nstudents are expected to maintain the highest standards of academic integrity. cheating, plagiarism,\nfabrication of data, and misrepresentation are serious violations subject to disciplinary action.\nuse of mobile phones during class is prohibited unless explicitly permitted by the instructor for\neducational purposes.\nstudents must wear the prescribed school uniform and id at all times while inside the campus.\nany form of bullying, harassment, or discrimi"
+  },
+  {
+    "chunk_id": 36,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 4,
+    "text": "pus.\nany form of bullying, harassment, or discrimination against fellow students or faculty members is strictly\nprohibited and may result in suspension or expulsion.\nscholarship and financial assistance programs\nched scholarship (unifast): available to qualified undergraduate students. applications are\naccepted at the beginning of each semester. requirements include a minimum gpa of 2.0 and no\nfailing grades in the previous semester.\ndost-sei scholarship: for science and engineering students. sc"
+  },
+  {
+    "chunk_id": 37,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 5,
+    "text": "olarship: for science and engineering students. scholars must maintain a qpa of at\nleast 2.0 and complete 8 hours of community service per semester.\ninstitutional scholarship: students who rank in the top 10% of their year level may qualify for a partial\ntuition discount. academic performance is evaluated at the end of each semester.\nwork-study program: qualified students may apply for the work-study program, which provides a\nmonthly stipend in exchange for 20 hours of work per week in designate"
+  },
+  {
+    "chunk_id": 38,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 6,
+    "text": "xchange for 20 hours of work per week in designated campus offices.\nlibrary services\nthe school library is open monday to friday, 7:30 am to 6:00 pm, and saturday, 8:00 am to 12:00 nn.\nstudents must present their school id to borrow materials.\nborrowing policy: students may borrow a maximum of 3 books at a time for a period of 3 days.\noverdue fines are php 5.00 per day per book.\nonline resources: students have access to the school's subscribed online databases including\njstor, proquest, and the"
+  },
+  {
+    "chunk_id": 39,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 7,
+    "text": "line databases including\njstor, proquest, and the philippine elib. login credentials are provided at the start of enrollment.\nit and computer laboratory policies\nstudents must log in using their institutional account. unauthorized access to other users' accounts is a\nviolation of the acceptable use policy.\nfood and drinks are strictly prohibited inside the computer laboratory. students who damage\nequipment due to negligence will be held responsible for repair or replacement costs.\nsaving of pers"
+  },
+  {
+    "chunk_id": 40,
+    "source": "06_Academic_Calendar_and_Policies.txt",
+    "chunk_index": 8,
+    "text": "le for repair or replacement costs.\nsaving of personal files must be done on personal storage devices (usb) or cloud storage. the\nlaboratory computers are cleared at the end of each semester."
+  },
+  {
+    "chunk_id": 41,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus: professional ethics in information technology 1st\nsemester, a.y. 20262027\ncourse information\ninstructor: ethics instructor name units: 3 schedule: mwf 11:00 am12:00 nn room: room 301\n1. course description\nthis course examines the ethical, legal, and social dimensions of information technology. topics\ninclude professional codes of conduct, intellectual property rights, data privacy and protection laws\n(including the philippine data privacy act of 2012), cybercrime legislation (ra"
+  },
+  {
+    "chunk_id": 42,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "a privacy act of 2012), cybercrime legislation (ra 10175), social media\nethics, algorithmic bias, ai ethics, digital divide, and responsible technology development. students will\nanalyze real-world case studies and develop frameworks for ethical decision-making in the it\nprofession.\n2. learning outcomes\nlo 1: analyze ethical dilemmas in technology using established ethical frameworks such as\nutilitarianism, deontology, and virtue ethics.\nlo 2: apply philippine laws on data privacy, cybercrime, a"
+  },
+  {
+    "chunk_id": 43,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "ply philippine laws on data privacy, cybercrime, and intellectual property to real-world it\nscenarios.\nlo 3: evaluate the social impact of emerging technologies including artificial intelligence, surveillance\nsystems, and social media platforms.\nlo 4: formulate an ethical decision-making framework applicable to professional it practice.\n3. weekly schedule\nweek topic assessment\n1 introduction to ethics; it profession and ethical respoqnsuiibzi l1ity\n2 ethical frameworks: utilitarianism, deontolog"
+  },
+  {
+    "chunk_id": 44,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "ty\n2 ethical frameworks: utilitarianism, deontology, virtue ceathsiec sstudy 1\n3 professional codes of conduct: acm, ieee, dict guiqdeuliizn e2s\n4 intellectual property rights; copyright, patents, and lipcetn 1s:e isp i na intalysis paper\n5 philippine data privacy act (ra 10173); npc regulaticonasse study 2\n6 gdpr overview; cross-border data transfers and coqmupilzia 3nce\n7 cybercrime prevention act (ra 10175); legal cases inl apbh: case analysis\n8 midterm examination midterm exam\n9 social media"
+  },
+  {
+    "chunk_id": 45,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "8 midterm examination midterm exam\n9 social media ethics; fake news; online harassment lpatw s2: ethics position paper\n10 algorithmic bias; fairness in ai systems case study 3\n11 ai ethics frameworks; unesco recommendation ond aisicussion forum\n12 digital divide; accessibility and inclusion in technologpyt 3: policy proposal\n13 whistleblowing in it; corporate responsibility quiz 4\n14 emerging issues: deepfakes, surveillance capitalism,p baionmel edtriisccsussion\n15 student presentations: ethica"
+  },
+  {
+    "chunk_id": 46,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "edtriisccsussion\n15 student presentations: ethical case study analysis group presentation\n16 final examination final exam\n4. grading system\ncomponent weight\nquizzes 15%\ncase studies and discussion 20%\nperformance tasks 25%\nmidterm exam 20%\nfinal exam 20%\n5. course policies\nclass discussion: ethical discussions require respect and open-mindedness. students must listen\nactively and engage thoughtfully. personal attacks or discriminatory language will not be tolerated.\nposition papers: must be sub"
+  },
+  {
+    "chunk_id": 47,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 6,
+    "text": "ill not be tolerated.\nposition papers: must be submitted in apa format, minimum 3 pages, with at least 5 credible\nreferences. ai-generated papers without proper disclosure and critical analysis will not be accepted.\ncase studies: group case study presentations must include a clear identification of the ethical issue,\napplicable laws, stakeholder analysis, and a recommended course of action.\n6. key laws and references\n1. republic act 10173 data privacy act of 2012 (philippines).\n2. republic act 1"
+  },
+  {
+    "chunk_id": 48,
+    "source": "07_IT_Ethics_Syllabus.txt",
+    "chunk_index": 7,
+    "text": "ivacy act of 2012 (philippines).\n2. republic act 10175 cybercrime prevention act of 2012 (philippines).\n3. republic act 8792 electronic commerce act of 2000 (philippines).\n4. unesco recommendation on the ethics of artificial intelligence (2021).\n5. acm code of ethics and professional conduct (2018).\n6. tavani, h. (2016). ethics and technology: controversies, questions, and strategies for ethical\ncomputing. wiley."
+  },
+  {
+    "chunk_id": 49,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 0,
+    "text": "course syllabus: software engineering 1st semester, a.y.\ncourse information\ninstructor: se instructor name units: 3 schedule: tth 10:30 am12:00 nn room: it lab 1\n1. course description\nsoftware engineering introduces students to the systematic development of high-quality software. the\ncourse covers software process models, requirements engineering, software design principles, design\npatterns, software testing strategies, project management, software quality assurance, and devops\npractices. studen"
+  },
+  {
+    "chunk_id": 50,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 1,
+    "text": "re quality assurance, and devops\npractices. students will apply these principles in a group software development project that spans the\nentire semester, culminating in a working software prototype and a formal project documentation\npackage.\n2. learning outcomes\nlo 1: apply software process models (agile, scrum, waterfall) to plan and manage a software\ndevelopment project.\nlo 2: write clear and testable software requirements using use cases and user stories.\nlo 3: apply object-oriented design pri"
+  },
+  {
+    "chunk_id": 51,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 2,
+    "text": "er stories.\nlo 3: apply object-oriented design principles (solid) and common design patterns to software\narchitecture.\nlo 4: design and execute a test plan covering unit, integration, and system testing.\nlo 5: use version control (git/github) and ci/cd tools in a team software project.\n3. weekly schedule\nweek topic assessment\n1 introduction to software engineering; sdlc models quiz 1\n2 agile methodology; scrum framework; sprint planninglab 1: scrum board setup\n3 requirements engineering; user st"
+  },
+  {
+    "chunk_id": 52,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 3,
+    "text": "um board setup\n3 requirements engineering; user stories; acceptance claribte 2ri:a requirements doc\n4 software architecture; layered, mvc, microservices pt 1: architecture diagram\n5 object-oriented design; solid principles quiz 2\n6 design patterns: singleton, factory, observer, strateglyab 3: design pattern implementation\n7 version control with git; branching strategies; pull relqaube s4t:s github workflow\n8 midterm examination midterm exam\n9 software testing; unit testing with pytest or junit p"
+  },
+  {
+    "chunk_id": 53,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 4,
+    "text": "tware testing; unit testing with pytest or junit pt 2: test suite\n10 integration testing; system testing; uat lab 5\n11 software quality assurance; code reviews; static anaqlyusizis 3\n12 devops basics; ci/cd pipelines with github actions pt 3: ci/cd pipeline\n13 software project management; estimation; risk managleemctuernet\n14 documentation; api documentation; readme best prlaacbti c6es\n15 group project presentations: working software demogroup demo\n16 final examination final exam\n4. grading syst"
+  },
+  {
+    "chunk_id": 54,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 5,
+    "text": "mo\n16 final examination final exam\n4. grading system\ncomponent weight\nquizzes / participation 10%\nlaboratory exercises 20%\nperformance tasks 20%\ngroup software project 20%\nmidterm exam 15%\nfinal exam 15%\n5. group project requirements\neach group (34 members) must develop a working software application addressing a real-world\nproblem. the project must use git for version control with a shared repository, maintain a product\nbacklog, complete at least 3 sprint cycles, and submit a final project docu"
+  },
+  {
+    "chunk_id": 55,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 6,
+    "text": "t 3 sprint cycles, and submit a final project documentation package including\nsrs, design documents, test plan, and user manual.\ntechnology stack: students may use any programming language and framework approved by the\ninstructor. web-based applications (react, django, fastapi) and mobile applications (flutter, react\nnative) are both acceptable.\n6. references\n1. sommerville, i. (2016). software engineering (10th ed.). pearson.\n2. martin, r.c. (2017). clean architecture. prentice hall.\n3. gamma,"
+  },
+  {
+    "chunk_id": 56,
+    "source": "08_Software_Engineering_Syllabus.txt",
+    "chunk_index": 7,
+    "text": "17). clean architecture. prentice hall.\n3. gamma, e. et al. (1994). design patterns: elements of reusable object-oriented software.\naddison-wesley.\n4. github documentation.\n5. atlassian agile coach."
+  }
+]
