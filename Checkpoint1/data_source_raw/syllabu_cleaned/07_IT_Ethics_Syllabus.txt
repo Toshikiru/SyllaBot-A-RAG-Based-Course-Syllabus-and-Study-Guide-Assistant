@@ -1,0 +1,59 @@
+course syllabus: professional ethics in information technology 1st
+semester, a.y. 20262027
+course information
+instructor: ethics instructor name units: 3 schedule: mwf 11:00 am12:00 nn room: room 301
+1. course description
+this course examines the ethical, legal, and social dimensions of information technology. topics
+include professional codes of conduct, intellectual property rights, data privacy and protection laws
+(including the philippine data privacy act of 2012), cybercrime legislation (ra 10175), social media
+ethics, algorithmic bias, ai ethics, digital divide, and responsible technology development. students will
+analyze real-world case studies and develop frameworks for ethical decision-making in the it
+profession.
+2. learning outcomes
+lo 1: analyze ethical dilemmas in technology using established ethical frameworks such as
+utilitarianism, deontology, and virtue ethics.
+lo 2: apply philippine laws on data privacy, cybercrime, and intellectual property to real-world it
+scenarios.
+lo 3: evaluate the social impact of emerging technologies including artificial intelligence, surveillance
+systems, and social media platforms.
+lo 4: formulate an ethical decision-making framework applicable to professional it practice.
+3. weekly schedule
+week topic assessment
+1 introduction to ethics; it profession and ethical respoqnsuiibzi l1ity
+2 ethical frameworks: utilitarianism, deontology, virtue ceathsiec sstudy 1
+3 professional codes of conduct: acm, ieee, dict guiqdeuliizn e2s
+4 intellectual property rights; copyright, patents, and lipcetn 1s:e isp i na intalysis paper
+5 philippine data privacy act (ra 10173); npc regulaticonasse study 2
+6 gdpr overview; cross-border data transfers and coqmupilzia 3nce
+7 cybercrime prevention act (ra 10175); legal cases inl apbh: case analysis
+8 midterm examination midterm exam
+9 social media ethics; fake news; online harassment lpatw s2: ethics position paper
+10 algorithmic bias; fairness in ai systems case study 3
+11 ai ethics frameworks; unesco recommendation ond aisicussion forum
+12 digital divide; accessibility and inclusion in technologpyt 3: policy proposal
+13 whistleblowing in it; corporate responsibility quiz 4
+14 emerging issues: deepfakes, surveillance capitalism,p baionmel edtriisccsussion
+15 student presentations: ethical case study analysis group presentation
+16 final examination final exam
+4. grading system
+component weight
+quizzes 15%
+case studies and discussion 20%
+performance tasks 25%
+midterm exam 20%
+final exam 20%
+5. course policies
+class discussion: ethical discussions require respect and open-mindedness. students must listen
+actively and engage thoughtfully. personal attacks or discriminatory language will not be tolerated.
+position papers: must be submitted in apa format, minimum 3 pages, with at least 5 credible
+references. ai-generated papers without proper disclosure and critical analysis will not be accepted.
+case studies: group case study presentations must include a clear identification of the ethical issue,
+applicable laws, stakeholder analysis, and a recommended course of action.
+6. key laws and references
+1. republic act 10173 data privacy act of 2012 (philippines).
+2. republic act 10175 cybercrime prevention act of 2012 (philippines).
+3. republic act 8792 electronic commerce act of 2000 (philippines).
+4. unesco recommendation on the ethics of artificial intelligence (2021).
+5. acm code of ethics and professional conduct (2018).
+6. tavani, h. (2016). ethics and technology: controversies, questions, and strategies for ethical
+computing. wiley.

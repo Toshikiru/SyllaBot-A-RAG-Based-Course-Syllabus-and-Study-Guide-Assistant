@@ -1,0 +1,59 @@
+course syllabus: software engineering 1st semester, a.y.
+course information
+instructor: se instructor name units: 3 schedule: tth 10:30 am12:00 nn room: it lab 1
+1. course description
+software engineering introduces students to the systematic development of high-quality software. the
+course covers software process models, requirements engineering, software design principles, design
+patterns, software testing strategies, project management, software quality assurance, and devops
+practices. students will apply these principles in a group software development project that spans the
+entire semester, culminating in a working software prototype and a formal project documentation
+package.
+2. learning outcomes
+lo 1: apply software process models (agile, scrum, waterfall) to plan and manage a software
+development project.
+lo 2: write clear and testable software requirements using use cases and user stories.
+lo 3: apply object-oriented design principles (solid) and common design patterns to software
+architecture.
+lo 4: design and execute a test plan covering unit, integration, and system testing.
+lo 5: use version control (git/github) and ci/cd tools in a team software project.
+3. weekly schedule
+week topic assessment
+1 introduction to software engineering; sdlc models quiz 1
+2 agile methodology; scrum framework; sprint planninglab 1: scrum board setup
+3 requirements engineering; user stories; acceptance claribte 2ri:a requirements doc
+4 software architecture; layered, mvc, microservices pt 1: architecture diagram
+5 object-oriented design; solid principles quiz 2
+6 design patterns: singleton, factory, observer, strateglyab 3: design pattern implementation
+7 version control with git; branching strategies; pull relqaube s4t:s github workflow
+8 midterm examination midterm exam
+9 software testing; unit testing with pytest or junit pt 2: test suite
+10 integration testing; system testing; uat lab 5
+11 software quality assurance; code reviews; static anaqlyusizis 3
+12 devops basics; ci/cd pipelines with github actions pt 3: ci/cd pipeline
+13 software project management; estimation; risk managleemctuernet
+14 documentation; api documentation; readme best prlaacbti c6es
+15 group project presentations: working software demogroup demo
+16 final examination final exam
+4. grading system
+component weight
+quizzes / participation 10%
+laboratory exercises 20%
+performance tasks 20%
+group software project 20%
+midterm exam 15%
+final exam 15%
+5. group project requirements
+each group (34 members) must develop a working software application addressing a real-world
+problem. the project must use git for version control with a shared repository, maintain a product
+backlog, complete at least 3 sprint cycles, and submit a final project documentation package including
+srs, design documents, test plan, and user manual.
+technology stack: students may use any programming language and framework approved by the
+instructor. web-based applications (react, django, fastapi) and mobile applications (flutter, react
+native) are both acceptable.
+6. references
+1. sommerville, i. (2016). software engineering (10th ed.). pearson.
+2. martin, r.c. (2017). clean architecture. prentice hall.
+3. gamma, e. et al. (1994). design patterns: elements of reusable object-oriented software.
+addison-wesley.
+4. github documentation.
+5. atlassian agile coach.

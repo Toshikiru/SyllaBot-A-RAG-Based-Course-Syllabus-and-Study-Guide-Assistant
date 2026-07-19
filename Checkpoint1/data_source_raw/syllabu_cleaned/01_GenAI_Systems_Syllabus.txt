@@ -1,0 +1,27 @@
+course syllabus
+is professional elective 4 generative ai systems
+instructor: jessie a. melendres 1st semester, a.y. 20262027 units: 3 schedule: tth 1:002:30 pm
+1. course description
+this course introduces students to the principles and applications of generative ai systems. topics include transformer architecture, large language models (llms), prompt engineering, retrieval-augmented generation (rag), vector databases, fine-tuning techniques such as lora and qlora, and llmops deployment practices. students will design and build a working generative ai application as a capstone mini-project that progresses through four checkpoints aligned with the four exam periods.
+2. course intended learning outcomes (cilos)
+by the end of this course, students should be able to:
+cilo 1: build a full end-to-end data pipeline including text cleaning, tokenization, embedding generation, and dimensionality reduction.
+cilo 2: design and implement a scalable rag architecture using a vector database and an orchestration framework such as langchain or llamaindex.
+cilo 3: apply open-source foundation models and demonstrate understanding of peft, lora, and qlora fine-tuning techniques within memory constraints.
+cilo 4: deploy a secure, containerized application using docker with a ci/cd-aware deployment workflow.
+3. course topics by week
+4. grading system
+5. project checkpoints
+6. course policies
+attendance: students are allowed a maximum of 3 absences. more than 3 absences may result in a grade of 5.0 or dropped status depending on the stage of the semester.
+late submissions: a deduction of 10% per day late will be applied to all performance tasks. no submission will be accepted after 3 days past the deadline.
+academic integrity: all code submissions must be the original work of the student or group. use of ai-generated code is permitted but must be declared and explained. plagiarism results in automatic failure of the task.
+laboratory requirements: students must bring their own laptop with python 3.10 installed. google colab is an acceptable alternative.
+communication: official announcements will be posted on the course lms. students are expected to check the platform at least once daily.
+7. required references
+1. vaswani, a. et al. (2017). attention is all you need. neurips.
+2. lewis, p. et al. (2020). retrieval-augmented generation for knowledge-intensive nlp tasks. neurips.
+3. hu, e. et al. (2022). lora: low-rank adaptation of large language models. iclr.
+4. langchain documentation.
+5. huggingface documentation.
+6. chromadb documentation.

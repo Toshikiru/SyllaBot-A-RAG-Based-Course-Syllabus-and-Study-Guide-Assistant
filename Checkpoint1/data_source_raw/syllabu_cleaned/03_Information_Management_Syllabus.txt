@@ -1,0 +1,50 @@
+course syllabus: information management 1st semester, a.y.
+course information
+instructor: im instructor name units: 3 schedule: mwf 10:0011:00 am room: it lab 2
+1. course description
+information management covers the principles and practices of managing organizational information
+resources. topics include database systems, data modeling, information architecture, records
+management, knowledge management, information security, and enterprise information systems.
+students will analyze real-world information management problems and propose solutions using
+standard frameworks and tools.
+2. learning outcomes
+lo 1: design and implement relational database schemas using normalization techniques.
+lo 2: apply information architecture principles to organize and structure enterprise data.
+lo 3: evaluate information security risks and recommend appropriate controls.
+lo 4: use sql and database tools to retrieve and manipulate organizational data.
+3. weekly schedule
+week topic assessment
+1 introduction to information management; data vs informatqiouni zv s1 knowledge
+2 database concepts; relational model; entity-relationshipl daiba g1rams
+3 normalization; 1nf, 2nf, 3nf; functional dependencieslab 2
+4 sql fundamentals; select, insert, update, deletpet 1
+5 advanced sql; joins, subqueries, aggregate functions lab 3
+6 information architecture; taxonomies and metadata quiz 2
+7 records and document management systems lab 4
+8 midterm examination midterm exam
+9 knowledge management systems; communities of practicpet 2
+10 information security fundamentals; cia triad quiz 3
+11 access control; authentication and authorization lab 5
+12 enterprise information systems; erp and crm pt 3
+13 data governance and compliance; gdpr, data privacy alcetcture
+14 cloud-based information systems lab 6
+15 case study: information management failure analysis group report
+16 final examination final exam
+4. grading system
+component weight
+quizzes 20%
+laboratory exercises 20%
+performance tasks 20%
+midterm exam 20%
+final exam 20%
+5. course policies
+attendance: students must maintain at least 80% attendance. absences beyond the allowable limit will
+result in a grade of dropped.
+laboratory: students are expected to save and back up all lab outputs. lost files due to negligence will
+not be grounds for re-submission.
+academic honesty: sharing of exam answers, plagiarism, or copying of laboratory outputs is a violation
+of academic integrity and will be dealt with accordingly.
+6. references
+1. laudon, k. laudon, j. (2022). management information systems. pearson.
+2. hoffer, j. et al. (2019). modern database management. pearson.
+3. iso/iec 27001:2022 information security management standard.

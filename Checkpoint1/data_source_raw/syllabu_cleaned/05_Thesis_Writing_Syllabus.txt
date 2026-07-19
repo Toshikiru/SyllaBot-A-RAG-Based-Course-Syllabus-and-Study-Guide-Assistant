@@ -1,0 +1,54 @@
+course syllabus: thesis writing and research methods 1st
+semester, a.y. 20262027
+course information
+instructor: research instructor name units: 3 schedule: f 1:004:00 pm room: research lab
+1. course description
+this course guides fourth-year is students through the research process from topic conceptualization
+to final thesis defense. students will develop skills in research design, literature review writing, data
+collection methodologies, statistical analysis, and academic writing. by the end of the semester,
+students will have completed and defended chapters 1 through 3 of their undergraduate thesis.
+2. learning outcomes
+lo 1: formulate a clear and researchable problem statement relevant to the field of information
+systems.
+lo 2: conduct a comprehensive review of related literature and synthesize findings.
+lo 3: design an appropriate research methodology including data collection and analysis plans.
+lo 4: write and defend chapters 1, 2, and 3 of an undergraduate thesis following apa 7th edition
+format.
+3. chapter and milestone schedule
+week milestone output
+1 orientation; research ethics; topic brainstormingtopic proposal (1 page)
+2 research problem identification; significance of thed rsatfut dcyhapter 1 section 1
+3 conceptual framework; theoretical framework framework diagram
+4 statement of the problem; research questions; hyppto t1h:e csihsapter 1 draft
+5 literature review strategy; database search annotated bibliography (10 sources)
+6 synthesizing related literature literature matrix
+7 writing related studies; synthesis paragraph draft chapter 2
+8 midterm defense: chapter 1 and chapter 2 midterm defense
+9 research design; quantitative vs qualitative methodology draft
+10 sampling; population; data collection instrumentssurvey/interview guide
+11 validity and reliability; pilot testing instrument validation report
+12 data collection plan; timeline pt 2: chapter 3 draft
+13 statistical tools; data analysis plan analysis framework
+14 revision of chapters 13 based on panel feedbacrkevised manuscript
+15 pre-final defense rehearsal presentation slides
+16 final defense: chapters 1, 2, and 3 final thesis manuscript
+4. grading system
+component weight
+chapter drafts and revisions 20%
+annotated bibliography and literature matrix 10%
+performance tasks 20%
+midterm defense 25%
+final defense 25%
+5. formatting guidelines
+all written outputs must follow apa 7th edition formatting: 12pt times new roman, double-spaced,
+1-inch margins, page numbers on upper right.
+citations: all sources must be properly cited in-text and listed in the references section. plagiarism will
+result in automatic disqualification of the submission.
+manuscript submission: final thesis manuscript must be submitted both in soft copy (pdf via lms)
+and hard copy (spiral-bound) before the defense date.
+6. references and style guide
+1. american psychological association. (2020). publication manual of the apa (7th ed.).
+2. creswell, j. creswell, j.d. (2018). research design: qualitative, quantitative, and mixed methods
+approaches. sage.
+3. creswell, j. (2015). educational research: planning, conducting, and evaluating quantitative and
+qualitative research. pearson.

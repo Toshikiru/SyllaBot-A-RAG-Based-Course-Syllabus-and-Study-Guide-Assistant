@@ -1,0 +1,51 @@
+course syllabus: systems analysis and design 1st semester, a.y.
+course information
+instructor: sad instructor name units: 3 schedule: tth 3:004:30 pm room: it lab 3
+1. course description
+systems analysis and design (sad) provides students with a structured approach to designing and
+developing information systems. the course covers the systems development life cycle (sdlc),
+requirements gathering, process modeling using data flow diagrams (dfds) and use case diagrams,
+database design, prototyping, and system implementation. students will work in teams to analyze a
+real-world problem and produce a complete system design proposal.
+2. learning outcomes
+lo 1: apply the sdlc methodology to plan and manage a software development project.
+lo 2: elicit and document system requirements through interviews, surveys, and observation.
+lo 3: create process models using dfds, flowcharts, and uml diagrams.
+lo 4: design a functional prototype of an information system based on user requirements.
+3. weekly schedule
+week topic assessment
+1 introduction to systems analysis; sdlc overview quiz 1
+2 agile vs waterfall; project management basics discussion
+3 requirements elicitation; interviews and surveys lab 1: requirements doc
+4 use case diagrams; actor identification pt 1: use case diagram
+5 data flow diagrams; context diagrams; level 0 and 1 dfldasb 2
+6 process modeling; decision tables and trees quiz 2
+7 data modeling; er diagrams; data dictionary lab 3
+8 midterm examination midterm exam
+9 system design; input/output design; ui wireframes pt 2: wireframes
+10 database design; normalization review lab 4
+11 prototyping; low-fidelity and high-fidelity prototypes lab 5
+12 system testing; test plans and test cases pt 3: test plan
+13 implementation planning; conversion strategies lecture
+14 system maintenance; change management quiz 3
+15 group presentations: system design proposal group presentation
+16 final examination final exam
+4. grading system
+component weight
+quizzes / participation 15%
+laboratory outputs 25%
+performance tasks 20%
+midterm exam 20%
+final exam 20%
+5. policies
+team work: all group members must contribute equally. division of labor must be documented and
+submitted alongside group outputs.
+submission: all outputs must be submitted via the lms before 11:59 pm on the due date. email
+submissions are not accepted.
+consultation: students are encouraged to schedule consultations during the instructor's office hours for
+project feedback.
+6. references
+1. kendall, k. kendall, j. (2019). systems analysis and design. pearson.
+2. sommerville, i. (2016). software engineering. pearson.
+3. dennis, a. et al. (2021). systems analysis and design: an object-oriented approach with uml.
+wiley.

@@ -1,0 +1,23 @@
+course syllabus
+business analytics
+instructor: ba instructor name 1st semester, a.y. 20262027 units: 3 schedule: mwf 9:0010:00 am
+1. course description
+business analytics is a course that equips students with the skills to collect, process, analyze, and communicate data-driven insights for business decision-making. topics include descriptive, predictive, and prescriptive analytics, data quality management, statistical modeling, data visualization, and the use of modern analytics tools such as python, excel, and power bi. students will complete a series of performance tasks using real-world or simulated business datasets.
+2. learning outcomes
+lo 1: apply data quality management principles to identify and resolve issues in raw datasets.
+lo 2: use descriptive statistics and visualization tools to summarize and present data effectively.
+lo 3: build predictive models using regression and classification techniques.
+lo 4: interpret analytics results and formulate data-driven business recommendations.
+3. weekly topics
+4. grading system
+5. course policies
+attendance: a maximum of 3 absences is allowed. more than 3 absences will result in a failing grade or dropped status.
+late work: performance tasks submitted after the deadline will receive a 10% deduction per day. tasks submitted more than 3 days late will not be accepted.
+tools required: microsoft excel (office 365), python 3.x with pandas and matplotlib, power bi desktop (free version).
+data privacy: any personal data used in exercises must be anonymized. students must not share datasets externally.
+recitation: active participation in discussions and recitations is part of the grade. students should come prepared with the assigned readings.
+6. required textbooks and references
+1. shmueli, g. et al. (2023). data mining for business analytics. wiley.
+2. few, s. (2012). show me the numbers: designing tables and graphs to enlighten. analytics press.
+3. mckinney, w. (2022). python for data analysis. oreilly media.
+4. microsoft power bi documentation.
